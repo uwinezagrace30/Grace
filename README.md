@@ -1,4 +1,4 @@
-# My Portfolio — Personal Portfolio
+# My Portfolio — Personal Portfolio 
 
 ## Description
 This is my personal portfolio website showcasing my background, skills, education, experience, and career journey as an Information Technology professional. 
