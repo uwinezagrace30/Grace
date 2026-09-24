@@ -18,7 +18,7 @@ The portfolio provides a clean, comprehensive overview of my technical skills, p
 You can view the live portfolio through GitHub Pages:
 
 **GitHub Pages:**  
-https://github.io
+https://uwinezagrace30.github.io/Grace/
 
 You can also download or clone the repository and open the `index.html` file in a web browser.
 
@@ -26,7 +26,7 @@ You can also download or clone the repository and open the `index.html` file in 
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com
+git https://uwinezagrace30.github.io/Grace/
 ```
 
 Then move into the project folder:
@@ -39,7 +39,6 @@ Open `index.html` in your browser.
 ## Technologies Used
 * HTML5
 * CSS3
-* JavaScript
 * Git & GitHub
 * GitHub Pages
 
@@ -54,8 +53,7 @@ You are free to view and learn from the code, but please give credit to the orig
 
 ## Project Link
 GitHub Repository:  
-https://github.com
-
+https://uwinezagrace30.github.io/Grace/
 ---
 **Information Technology | IT Support | Networking | Software & Technology**
 Use the code with caution.📤 Comment envoyer cette mise à jour sur GitHub ?Enregistrez le fichier sur votre ordinateur, puis exécutez ces trois commandes dans votre terminal :bashgit add README.md
