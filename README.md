@@ -48,7 +48,7 @@ This project is available for educational and personal use.
 You are free to view and learn from the code, but please give credit to the original author if you reuse significant portions of the project.
 
 ## Contributors
-* **Emmy** — Information Technology Professional
+* **GRACE** — Information Technology Professional
 * Currently pursuing a Bachelor's degree in Information Technology.
 
 ## Project Link
