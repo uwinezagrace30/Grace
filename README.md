@@ -59,3 +59,10 @@ https://uwinezagrace30.github.io/Grace/
 Use the code with caution.📤 Comment envoyer cette mise à jour sur GitHub ?Enregistrez le fichier sur votre ordinateur, puis exécutez ces trois commandes dans votre terminal :bashgit add README.md
 git commit -m "Mise à jour du README avec le nouveau template"
 git push origin main
+
+## Collaborator
+
+- **Full name:** Kayigamba Callixte
+- **GitHub username:** KayigambaCallixte
+- **GitHub profile:** [https://github.com/[username]](https://github.com/KayigambaCallixte)
+- **Role:** Collaborator responsible for updating an agreed section of the portfolio.
